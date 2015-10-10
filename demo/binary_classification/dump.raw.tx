@@ -1,0 +1,26 @@
+booster[0]:
+0:[f28<2.00001] yes=1,no=2,missing=2
+	1:[f108<2.00001] yes=3,no=4,missing=4
+		3:leaf=1.85965
+		4:[f66<2.00001] yes=7,no=8,missing=8
+			7:leaf=0.808511
+			8:leaf=-1.98531
+	2:[f55<2.00001] yes=5,no=6,missing=6
+		5:[f20<2.00001] yes=9,no=10,missing=10
+			9:leaf=-1.98104
+			10:leaf=1.77778
+		6:[f59<2.00001] yes=11,no=12,missing=12
+			11:leaf=-1.95062
+			12:leaf=1.90175
+booster[1]:
+0:[f28<2.00001] yes=1,no=2,missing=2
+	1:[f108<2.00001] yes=3,no=4,missing=4
+		3:leaf=0.994744
+		4:[f38<2.00001] yes=7,no=8,missing=8
+			7:leaf=-1.15275
+			8:leaf=-0.0386054
+	2:[f20<2.00001] yes=5,no=6,missing=6
+		5:[f35<2.00001] yes=9,no=10,missing=10
+			9:leaf=-0.127376
+			10:leaf=-6.87558
+		6:leaf=1.1457

@@ -1,0 +1,14 @@
+6513x126 matrix with 143286 entries is loaded from agaricus.txt.train.buffer
+1611x126 matrix with 35442 entries is loaded from agaricus.txt.test.buffer
+boosting round 0, 0 sec elapsed
+wocaolei
+wocaolei
+wocaolei
+tree prunning end, 1 roots, 12 extra nodes, 0 pruned nodes ,max_depth=3
+boosting round 1, 0 sec elapsed
+wocaolei
+wocaolei
+wocaolei
+tree prunning end, 1 roots, 10 extra nodes, 0 pruned nodes ,max_depth=3
+
+updating end, 0 sec in all
